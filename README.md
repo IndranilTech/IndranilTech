@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Indranil Bhattacharyya, This is my Github 
+## Hi there 👋 I'm Indranil Bhattacharyya
 
 <!--
 **IndranilTech/IndranilTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
